@@ -1,0 +1,6 @@
+This is a test document written in vim on PoSH, to be added to
+parisio.github.io
+
+That's all for now.
+
+Paris
